@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:pancake-llc/system.threading.channels.git",
+    "url": "git@github.com:pancake-llc/system-threading-channels.git",
     "directory": "System.Threading.Channels"
   },
   "publishConfig": {
