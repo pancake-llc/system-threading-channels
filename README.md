@@ -1,13 +1,14 @@
 # What
-- Template use for setup setting you need for create unity package
-- Replace your setting in file package.json
+
+- System.Threading.Channels.8.0.0
+- netstandard2.1
 
 
 # How To Install Package
 
 Add the lines below to `Packages/manifest.json`
 
-for version x.x.x
+for version `8.0.0`
 ```csharp
-"com.pancake.__package_name__": "https://github.com/pancake-llc/packagename.git#x.x.x",
+"com.pancake.threading.channels": "https://github.com/pancake-llc/system.threading.channels.git#8.0.0",
 ```
